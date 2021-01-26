@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_traversy",
+  "version": "1.0.0",
+  "description": "Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityagawade27/nodejs_traversy.git"
+  },
+  "author": "Aditya Gawade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityagawade27/nodejs_traversy/issues"
+  },
+  "homepage": "https://github.com/adityagawade27/nodejs_traversy#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
